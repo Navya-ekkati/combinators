@@ -1,0 +1,71 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+}
+/* Task-1 */
+   .container .box p{
+     background-color: green;
+     padding: 20px;
+    
+   }
+   .box{
+    border: 1px solid black;
+   }
+   /* Task-2 */
+    .section .content p{
+        margin: 1px;
+        background-color: aqua;
+        border: 1px solid black;
+    }
+    .card-body p{
+        border: 1px solid black;
+    }
+    /* Task-3 */
+    .card-header p + .card-body p{
+        border: 1px solid pink;
+    }
+
+    /* Task-4 */
+    .navbar li{
+        background-color: lightblue;
+    }
+    /* Task-5 */
+     .header h1{
+        margin-top: 2px;
+        
+     }
+     /* Task-6 */
+     .footer p{
+        margin-bottom: 10px;
+     }
+      .footer span{
+        padding: 10px;
+        margin: 10px;
+        border: 1px solid black;
+        margin-top: 10px;
+      }
+      /* Task-7 */
+      .content p{
+        border: 1px solid black;
+      }
+      /* Task-8 */
+       .nav li{
+         margin-right: 15px;
+         border: 1px solid black;
+       }
+       /* Task-9 */
+       .gallery{
+        background-color: lightgray;
+       }
+        /* Task-10 */
+          
+          .footer1{
+            padding: 10px;
+             border: 1px solid black;
+             border-radius: 5px;
+             margin: 10px;
+          }
+
+
+
+    
